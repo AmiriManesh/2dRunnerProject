@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: f3c1f387b00763947812021680ad2730
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trail Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 293
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420f486aee31da4486e88e990928c17
+      internalID: 20625576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trail Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 293
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b81170e52582b4e8aafeb62770ccee
+      internalID: 32041084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trail Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 293
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10ac5934136a1408b6165dd1a120b6
+      internalID: 1038262444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trail Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 293
+        width: 20
+        height: 11
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3534367f7af2c4db07d85f6d6a97fd
+      internalID: 2128729417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trail Transparent_0: 748357563
+      Trail Transparent_1: -382676110
+      Trail Transparent_10: 1038262444
+      Trail Transparent_11: 2128729417
+      Trail Transparent_12: -499272491
+      Trail Transparent_13: 1658960200
+      Trail Transparent_14: -2024733542
+      Trail Transparent_15: 731146356
+      Trail Transparent_16: -1452501521
+      Trail Transparent_17: 1986335970
+      Trail Transparent_18: -1655777885
+      Trail Transparent_19: -2083297450
+      Trail Transparent_2: 421078247
+      Trail Transparent_20: 1053995673
+      Trail Transparent_21: 301052684
+      Trail Transparent_22: -997726271
+      Trail Transparent_23: 1861023598
+      Trail Transparent_24: -1679481690
+      Trail Transparent_25: -468507544
+      Trail Transparent_26: -1081864189
+      Trail Transparent_27: -1869963520
+      Trail Transparent_28: -785385024
+      Trail Transparent_29: -904976978
+      Trail Transparent_3: -932585793
+      Trail Transparent_30: 2021640645
+      Trail Transparent_31: 831314734
+      Trail Transparent_32: -540182888
+      Trail Transparent_33: -364961759
+      Trail Transparent_34: -576971675
+      Trail Transparent_35: -1032065476
+      Trail Transparent_36: -1656321274
+      Trail Transparent_37: 461692479
+      Trail Transparent_38: 495797817
+      Trail Transparent_39: 925813216
+      Trail Transparent_4: 494029899
+      Trail Transparent_40: 1472824537
+      Trail Transparent_41: -1739783738
+      Trail Transparent_42: -2103668616
+      Trail Transparent_43: -1676407198
+      Trail Transparent_44: 205084276
+      Trail Transparent_45: 1087237787
+      Trail Transparent_46: 593629528
+      Trail Transparent_47: -186396264
+      Trail Transparent_48: 1218908229
+      Trail Transparent_49: -616454829
+      Trail Transparent_5: 1518165677
+      Trail Transparent_50: -1005220919
+      Trail Transparent_51: -1225666293
+      Trail Transparent_52: -1536852610
+      Trail Transparent_53: -1648404753
+      Trail Transparent_54: 222811809
+      Trail Transparent_55: 677226247
+      Trail Transparent_56: -1077599348
+      Trail Transparent_57: -1926235453
+      Trail Transparent_58: -321303394
+      Trail Transparent_59: 330258686
+      Trail Transparent_6: -1186544724
+      Trail Transparent_60: 676281947
+      Trail Transparent_61: 137394706
+      Trail Transparent_62: 1617347730
+      Trail Transparent_63: -2023534352
+      Trail Transparent_64: -1010750346
+      Trail Transparent_65: 702631257
+      Trail Transparent_66: 221451587
+      Trail Transparent_67: 988746858
+      Trail Transparent_68: -77677945
+      Trail Transparent_69: 645350419
+      Trail Transparent_7: 730978267
+      Trail Transparent_70: -210439857
+      Trail Transparent_71: 503832999
+      Trail Transparent_72: -1757121679
+      Trail Transparent_73: 1581180069
+      Trail Transparent_74: -603257721
+      Trail Transparent_75: 1576792823
+      Trail Transparent_76: 353683414
+      Trail Transparent_77: 792349197
+      Trail Transparent_78: -2146706012
+      Trail Transparent_79: 1007222531
+      Trail Transparent_8: 20625576
+      Trail Transparent_80: 728655280
+      Trail Transparent_81: 1145769113
+      Trail Transparent_82: 1469318316
+      Trail Transparent_83: 857219503
+      Trail Transparent_84: -251542029
+      Trail Transparent_85: -857389505
+      Trail Transparent_86: -441063823
+      Trail Transparent_87: 426844271
+      Trail Transparent_88: -125696791
+      Trail Transparent_89: -920621470
+      Trail Transparent_9: 32041084
+      Trail Transparent_90: 216744817
+      Trail Transparent_91: 1690130499
+      Trail Transparent_92: -1120619234
+      Trail Transparent_93: -879962611
+      Trail Transparent_94: 1565917989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
