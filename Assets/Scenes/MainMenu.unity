@@ -3214,8 +3214,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   selectedCharacter: 0
-  character2UnlockScore: 112
-  character3UnlockScore: 220
+  character2UnlockScore: 20
+  character3UnlockScore: 40
   player:
   - {fileID: 6764040037265409252, guid: 2ce753b354da1f9408486ac1a514d9f3, type: 3}
   - {fileID: 7057717024601056177, guid: fd7d00dcbe133bd4cbe29f683f4774d7, type: 3}
@@ -3777,7 +3777,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 112 m
+  m_Text: 20 m
 --- !u!222 &1942637611
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3937,7 +3937,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 220 m
+  m_Text: 40 m
 --- !u!222 &2013788623
 CanvasRenderer:
   m_ObjectHideFlags: 0

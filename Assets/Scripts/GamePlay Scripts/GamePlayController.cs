@@ -25,9 +25,9 @@ public class GamePlayController : MonoBehaviour
             DontDestroyOnLoad(gameObject);
             int gameData = DataManager.GetData(TagManager.DATA_INITIALIZED);
             //check if game is initialized
+                //PlayerPrefs.DeleteAll();
             if (gameData == 0)
             {
-                //PlayerPrefs.DeleteAll();
                 // first time running the game , initialize data
                 selectedCharacter = 0;
                 DataManager.SaveData(TagManager.SELECTED_CHARACTER_DATA, selectedCharacter);
